@@ -1,0 +1,852 @@
+INFO  06:06:35 Application started. Press Ctrl+C to shut down.
+INFO  06:06:35 Application started. Press Ctrl+C to shut down.
+INFO  06:06:35 Hosting environment: Development
+INFO  06:06:35 Hosting environment: Development
+INFO  06:06:35 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:06:35 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:06:36 GetRequest() called with json input
+INFO  06:07:08 GetRequest() called with json input
+INFO  06:34:25 Application started. Press Ctrl+C to shut down.
+INFO  06:34:25 Application started. Press Ctrl+C to shut down.
+INFO  06:34:25 Hosting environment: Development
+INFO  06:34:25 Hosting environment: Development
+INFO  06:34:25 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:34:25 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:34:25 GetRequest() called with json input
+INFO  06:44:38 Application started. Press Ctrl+C to shut down.
+INFO  06:44:38 Application started. Press Ctrl+C to shut down.
+INFO  06:44:38 Hosting environment: Development
+INFO  06:44:38 Hosting environment: Development
+INFO  06:44:38 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:44:38 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:44:38 GetRequest() called with json input
+INFO  06:44:55 GetRequest() called with json input
+INFO  06:54:33 Application started. Press Ctrl+C to shut down.
+INFO  06:54:33 GetRequest() called with json input
+INFO  06:54:33 Application started. Press Ctrl+C to shut down.
+INFO  06:54:33 Hosting environment: Development
+INFO  06:54:33 Hosting environment: Development
+INFO  06:54:33 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:54:33 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:54:53 GetRequest() called with json input
+INFO  09:24:49 Application started. Press Ctrl+C to shut down.
+INFO  09:24:49 Application started. Press Ctrl+C to shut down.
+INFO  09:24:49 Hosting environment: Development
+INFO  09:24:49 Hosting environment: Development
+INFO  09:24:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  09:24:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+ERROR 09:24:49 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'EmployeeDetails.Repository.IEmployee`1[EmployeeDetails.Models.Employee]' while attempting to activate 'EmployeeDetails.Controllers.EmployeesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 09:24:49 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'EmployeeDetails.Repository.IEmployee`1[EmployeeDetails.Models.Employee]' while attempting to activate 'EmployeeDetails.Controllers.EmployeesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  09:25:47 Application started. Press Ctrl+C to shut down.
+INFO  09:25:47 Application started. Press Ctrl+C to shut down.
+INFO  09:25:47 Hosting environment: Development
+INFO  09:25:47 Hosting environment: Development
+INFO  09:25:47 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  09:25:47 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  09:25:48 GetRequest() called with json input
+INFO  09:26:47 GetRequest() called with json input
+INFO  09:50:06 Application started. Press Ctrl+C to shut down.
+INFO  09:50:06 Application started. Press Ctrl+C to shut down.
+INFO  09:50:06 Hosting environment: Development
+INFO  09:50:06 Hosting environment: Development
+INFO  09:50:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  09:50:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  09:50:06 GetRequest() called with json input
+INFO  09:50:22 GetRequest() called with json input
+ERROR 09:51:31 Connection ID "18302628900129210391", Request ID "80000018-0003-fe00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: The connection does not support MultipleActiveResultSets.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at Microsoft.Data.SqlClient.SqlInternalTransaction.Rollback()
+   at Microsoft.Data.SqlClient.SqlInternalTransaction.Dispose(Boolean disposing)
+   at Microsoft.Data.SqlClient.SqlInternalTransaction.Dispose()
+   at Microsoft.Data.SqlClient.SqlTransaction.Dispose(Boolean disposing)
+   at System.Data.Common.DbTransaction.Dispose()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalTransaction.Dispose()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Dispose()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Microsoft.EntityFrameworkCore.Infrastructure.IResettableService.ResetState()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IResettableService.ResetState()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextPool`1.Return(TContext context)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextPool`1.Lease.System.IAsyncDisposable.DisposeAsync()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.<>c__DisplayClass15_0.<<DisposeAsync>g__Await|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.FireOnCompleted()
+ERROR 09:51:31 An exception occurred in the database while saving changes for context type 'EmployeeDetails.Models.LeaveSystemContext'.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Remove(Object entity, IEntityType entityType, EntityState oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Update(InternalEntityEntry entry, EntityState state, Nullable`1 oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StateChanging(InternalEntityEntry entry, EntityState newState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.AcceptChanges()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.AcceptAllChanges(IReadOnlyList`1 changedEntries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Remove(Object entity, IEntityType entityType, EntityState oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Update(InternalEntityEntry entry, EntityState state, Nullable`1 oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StateChanging(InternalEntityEntry entry, EntityState newState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.AcceptChanges()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.AcceptAllChanges(IReadOnlyList`1 changedEntries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+ERROR 09:51:31 Connection ID "18302628900129210391", Request ID "80000018-0003-fe00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: The connection does not support MultipleActiveResultSets.
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ValidateConnectionForExecute(SqlCommand command)
+   at Microsoft.Data.SqlClient.SqlInternalTransaction.Rollback()
+   at Microsoft.Data.SqlClient.SqlInternalTransaction.Dispose(Boolean disposing)
+   at Microsoft.Data.SqlClient.SqlInternalTransaction.Dispose()
+   at Microsoft.Data.SqlClient.SqlTransaction.Dispose(Boolean disposing)
+   at System.Data.Common.DbTransaction.Dispose()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalTransaction.Dispose()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Dispose()
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.Microsoft.EntityFrameworkCore.Infrastructure.IResettableService.ResetState()
+   at Microsoft.EntityFrameworkCore.DbContext.Microsoft.EntityFrameworkCore.Infrastructure.IResettableService.ResetState()
+   at Microsoft.EntityFrameworkCore.Internal.DbContextPool`1.Return(TContext context)
+   at Microsoft.EntityFrameworkCore.Internal.DbContextPool`1.Lease.System.IAsyncDisposable.DisposeAsync()
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.ServiceProviderEngineScope.<>c__DisplayClass15_0.<<DisposeAsync>g__Await|0>d.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Http.Features.RequestServicesFeature.<DisposeAsync>g__Awaited|9_0(RequestServicesFeature servicesFeature, ValueTask vt)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContext.FireOnCompleted()
+ERROR 09:51:31 An exception occurred in the database while saving changes for context type 'EmployeeDetails.Models.LeaveSystemContext'.
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Remove(Object entity, IEntityType entityType, EntityState oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Update(InternalEntityEntry entry, EntityState state, Nullable`1 oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StateChanging(InternalEntityEntry entry, EntityState newState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.AcceptChanges()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.AcceptAllChanges(IReadOnlyList`1 changedEntries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Remove(Object entity, IEntityType entityType, EntityState oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.EntityReferenceMap.Update(InternalEntityEntry entry, EntityState state, Nullable`1 oldState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.StateChanging(InternalEntityEntry entry, EntityState newState)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState oldState, EntityState newState, Boolean acceptChanges, Boolean modifyProperties)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.SetEntityState(EntityState entityState, Boolean acceptChanges, Boolean modifyProperties, Nullable`1 forceStateWhenUnknownKey)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.InternalEntityEntry.AcceptChanges()
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.AcceptAllChanges(IReadOnlyList`1 changedEntries)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(DbContext _, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+INFO  09:52:00 GetRequest() called with json input
+INFO  10:05:20 Application started. Press Ctrl+C to shut down.
+INFO  10:05:20 Application started. Press Ctrl+C to shut down.
+INFO  10:05:20 Hosting environment: Development
+INFO  10:05:20 Hosting environment: Development
+INFO  10:05:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:05:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:05:20 GetRequest() called with json input
+INFO  10:57:18 Application started. Press Ctrl+C to shut down.
+INFO  10:57:18 Application started. Press Ctrl+C to shut down.
+INFO  10:57:18 Hosting environment: Development
+INFO  10:57:18 Hosting environment: Development
+INFO  10:57:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:57:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:57:18 GetRequest() called with json input
+INFO  10:53:47 Application started. Press Ctrl+C to shut down.
+INFO  10:53:47 Application started. Press Ctrl+C to shut down.
+INFO  10:53:47 Hosting environment: Development
+INFO  10:53:47 Hosting environment: Development
+INFO  10:53:47 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:53:47 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:53:48 GetRequest() called with json input
+INFO  11:09:27 Application started. Press Ctrl+C to shut down.
+INFO  11:09:27 Application started. Press Ctrl+C to shut down.
+INFO  11:09:27 Hosting environment: Development
+INFO  11:09:27 Hosting environment: Development
+INFO  11:09:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:09:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:09:27 GetRequest() called with json input
+INFO  11:11:42 Application started. Press Ctrl+C to shut down.
+INFO  11:11:43 Application started. Press Ctrl+C to shut down.
+INFO  11:11:43 Hosting environment: Development
+INFO  11:11:43 Hosting environment: Development
+INFO  11:11:43 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:11:43 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:11:43 GetRequest() called with json input
+INFO  11:13:06 Application started. Press Ctrl+C to shut down.
+INFO  11:13:06 Application started. Press Ctrl+C to shut down.
+INFO  11:13:06 Hosting environment: Development
+INFO  11:13:06 Hosting environment: Development
+INFO  11:13:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:13:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:13:06 GetRequest() called with json input
+INFO  11:14:03 Application started. Press Ctrl+C to shut down.
+INFO  11:14:04 Application started. Press Ctrl+C to shut down.
+INFO  11:14:04 Hosting environment: Development
+INFO  11:14:04 Hosting environment: Development
+INFO  11:14:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:14:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:14:04 GetRequest() called with json input
+INFO  11:14:50 Application started. Press Ctrl+C to shut down.
+INFO  11:14:50 Application started. Press Ctrl+C to shut down.
+INFO  11:14:50 Hosting environment: Development
+INFO  11:14:50 Hosting environment: Development
+INFO  11:14:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:14:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:14:50 GetRequest() called with json input
+INFO  11:17:24 Application started. Press Ctrl+C to shut down.
+INFO  11:17:24 Application started. Press Ctrl+C to shut down.
+INFO  11:17:24 Hosting environment: Development
+INFO  11:17:24 Hosting environment: Development
+INFO  11:17:24 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:17:24 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:17:24 GetRequest() called with json input
+INFO  11:19:19 Application started. Press Ctrl+C to shut down.
+INFO  11:19:19 Application started. Press Ctrl+C to shut down.
+INFO  11:19:19 Hosting environment: Development
+INFO  11:19:19 Hosting environment: Development
+INFO  11:19:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:19:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:19:19 GetRequest() called with json input
+INFO  11:19:25 GetRequest() called with json input
+INFO  11:21:31 Application started. Press Ctrl+C to shut down.
+INFO  11:21:31 Application started. Press Ctrl+C to shut down.
+INFO  11:21:31 Hosting environment: Development
+INFO  11:21:31 Hosting environment: Development
+INFO  11:21:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:21:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:21:31 GetRequest() called with json input
+INFO  11:21:32 GetRequest() called with json input
+INFO  10:59:31 Application started. Press Ctrl+C to shut down.
+INFO  10:59:31 Application started. Press Ctrl+C to shut down.
+INFO  10:59:31 Hosting environment: Development
+INFO  10:59:31 Hosting environment: Development
+INFO  10:59:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:59:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:59:32 GetRequest() called with json input
+INFO  11:00:05 GetRequest() called with json input
+INFO  11:06:40 Application started. Press Ctrl+C to shut down.
+INFO  11:06:40 Application started. Press Ctrl+C to shut down.
+INFO  11:06:40 Hosting environment: Development
+INFO  11:06:40 Hosting environment: Development
+INFO  11:06:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:06:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:06:40 GetRequest() called with json input
+INFO  11:12:37 Application started. Press Ctrl+C to shut down.
+INFO  11:12:37 Application started. Press Ctrl+C to shut down.
+INFO  11:12:37 Hosting environment: Development
+INFO  11:12:37 Hosting environment: Development
+INFO  11:12:37 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:12:37 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:12:37 GetRequest() called with json input
+INFO  11:14:12 Application started. Press Ctrl+C to shut down.
+INFO  11:14:12 Application started. Press Ctrl+C to shut down.
+INFO  11:14:12 Hosting environment: Development
+INFO  11:14:12 Hosting environment: Development
+INFO  11:14:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:14:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  11:14:13 GetRequest() called with json input
+INFO  11:15:50 GetRequest() called with json input
+INFO  08:59:27 Application started. Press Ctrl+C to shut down.
+INFO  08:59:27 Application started. Press Ctrl+C to shut down.
+INFO  08:59:27 Hosting environment: Development
+INFO  08:59:27 Hosting environment: Development
+INFO  08:59:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  08:59:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  08:59:28 GetRequest() called with json input
+INFO  10:03:28 Application started. Press Ctrl+C to shut down.
+INFO  10:03:28 Application started. Press Ctrl+C to shut down.
+INFO  10:03:28 Hosting environment: Development
+INFO  10:03:28 Hosting environment: Development
+INFO  10:03:28 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:03:28 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:03:29 GetRequest() called with json input
+INFO  10:03:44 GetRequest() called with json input
+INFO  10:15:06 Application started. Press Ctrl+C to shut down.
+INFO  10:15:06 Application started. Press Ctrl+C to shut down.
+INFO  10:15:06 Hosting environment: Development
+INFO  10:15:06 Hosting environment: Development
+INFO  10:15:07 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:15:07 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  10:15:07 GetRequest() called with json input
+INFO  10:15:41 GetRequest() called with json input
+INFO  12:07:12 Application started. Press Ctrl+C to shut down.
+INFO  12:07:12 Application started. Press Ctrl+C to shut down.
+INFO  12:07:12 Hosting environment: Development
+INFO  12:07:12 Hosting environment: Development
+INFO  12:07:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:07:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+ERROR 12:07:12 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:07:12 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:07:35 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 12:07:35 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: No authenticationScheme was specified, and there was no DefaultChallengeScheme found. The default schemes can be set using either AddAuthentication(string defaultScheme) or AddAuthentication(Action<AuthenticationOptions> configureOptions).
+   at Microsoft.AspNetCore.Authentication.AuthenticationService.ChallengeAsync(HttpContext context, String scheme, AuthenticationProperties properties)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  12:31:30 Application started. Press Ctrl+C to shut down.
+INFO  12:31:30 Application started. Press Ctrl+C to shut down.
+INFO  12:31:30 Hosting environment: Development
+INFO  12:31:30 Hosting environment: Development
+INFO  12:31:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:31:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:31:31 GetRequest() called with json input
+INFO  12:33:48 Application started. Press Ctrl+C to shut down.
+INFO  12:33:48 Application started. Press Ctrl+C to shut down.
+INFO  12:33:48 Hosting environment: Development
+INFO  12:33:48 Hosting environment: Development
+INFO  12:33:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:33:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:33:49 GetRequest() called with json input
+INFO  12:34:49 Application started. Press Ctrl+C to shut down.
+INFO  12:34:49 Application started. Press Ctrl+C to shut down.
+INFO  12:34:49 Hosting environment: Development
+INFO  12:34:49 Hosting environment: Development
+INFO  12:34:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:34:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:34:49 GetRequest() called with json input
+INFO  12:37:23 Application started. Press Ctrl+C to shut down.
+INFO  12:37:23 Application started. Press Ctrl+C to shut down.
+INFO  12:37:23 Hosting environment: Development
+INFO  12:37:23 Hosting environment: Development
+INFO  12:37:23 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:37:23 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:37:23 GetRequest() called with json input
+INFO  12:37:34 GetRequest() called with json input
+INFO  12:46:57 Application started. Press Ctrl+C to shut down.
+INFO  12:46:57 Application started. Press Ctrl+C to shut down.
+INFO  12:46:57 Hosting environment: Development
+INFO  12:46:57 Hosting environment: Development
+INFO  12:46:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:46:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:46:57 GetRequest() called with json input
+INFO  12:47:13 GetRequest() called with json input
+INFO  12:52:13 Application started. Press Ctrl+C to shut down.
+INFO  12:52:13 Application started. Press Ctrl+C to shut down.
+INFO  12:52:13 Hosting environment: Development
+INFO  12:52:13 Hosting environment: Development
+INFO  12:52:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:52:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  12:52:14 GetRequest() called with json input
+INFO  12:52:25 GetRequest() called with json input
+INFO  02:08:10 Application started. Press Ctrl+C to shut down.
+INFO  02:08:10 Application started. Press Ctrl+C to shut down.
+INFO  02:08:10 Hosting environment: Development
+INFO  02:08:10 Hosting environment: Development
+INFO  02:08:10 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:08:10 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:08:11 GetRequest() called with json input
+INFO  02:09:18 Application started. Press Ctrl+C to shut down.
+INFO  02:09:18 Application started. Press Ctrl+C to shut down.
+INFO  02:09:18 Hosting environment: Development
+INFO  02:09:18 Hosting environment: Development
+INFO  02:09:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:09:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:09:19 GetRequest() called with json input
+INFO  02:10:58 Application started. Press Ctrl+C to shut down.
+INFO  02:10:58 Application started. Press Ctrl+C to shut down.
+INFO  02:10:58 Hosting environment: Development
+INFO  02:10:58 Hosting environment: Development
+INFO  02:10:58 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:10:58 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:10:58 GetRequest() called with json input
+INFO  02:13:12 Application started. Press Ctrl+C to shut down.
+INFO  02:13:12 Application started. Press Ctrl+C to shut down.
+INFO  02:13:12 Hosting environment: Development
+INFO  02:13:12 Hosting environment: Development
+INFO  02:13:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:13:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:13:12 GetRequest() called with json input
+INFO  02:13:49 Application started. Press Ctrl+C to shut down.
+INFO  02:13:49 Application started. Press Ctrl+C to shut down.
+INFO  02:13:49 Hosting environment: Development
+INFO  02:13:49 Hosting environment: Development
+INFO  02:13:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:13:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:13:49 GetRequest() called with json input
+INFO  02:14:00 GetRequest() called with json input
+INFO  02:14:49 Application started. Press Ctrl+C to shut down.
+INFO  02:14:49 Application started. Press Ctrl+C to shut down.
+INFO  02:14:49 Hosting environment: Development
+INFO  02:14:49 Hosting environment: Development
+INFO  02:14:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:14:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:14:50 GetRequest() called with json input
+INFO  02:17:29 Application started. Press Ctrl+C to shut down.
+INFO  02:17:29 Application started. Press Ctrl+C to shut down.
+INFO  02:17:29 Hosting environment: Development
+INFO  02:17:29 Hosting environment: Development
+INFO  02:17:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:17:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:17:29 GetRequest() called with json input
+INFO  02:17:42 GetRequest() called with json input
+INFO  02:18:44 Application started. Press Ctrl+C to shut down.
+INFO  02:18:44 Application started. Press Ctrl+C to shut down.
+INFO  02:18:44 Hosting environment: Development
+INFO  02:18:44 Hosting environment: Development
+INFO  02:18:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:18:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:18:44 GetRequest() called with json input
+INFO  02:18:56 GetRequest() called with json input
+INFO  02:19:04 GetRequest() called with json input
+INFO  02:35:41 Application started. Press Ctrl+C to shut down.
+INFO  02:35:41 Application started. Press Ctrl+C to shut down.
+INFO  02:35:41 Hosting environment: Development
+INFO  02:35:41 Hosting environment: Development
+INFO  02:35:41 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:35:41 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  02:35:41 GetRequest() called with json input
+INFO  02:35:52 GetRequest() called with json input
+INFO  04:00:05 Application started. Press Ctrl+C to shut down.
+INFO  04:00:05 Application started. Press Ctrl+C to shut down.
+INFO  04:00:05 Hosting environment: Development
+INFO  04:00:05 Hosting environment: Development
+INFO  04:00:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:00:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:00:06 GetRequest() called with json input
+INFO  04:00:18 GetRequest() called with json input
+INFO  04:01:19 Application started. Press Ctrl+C to shut down.
+INFO  04:01:19 Application started. Press Ctrl+C to shut down.
+INFO  04:01:19 Hosting environment: Development
+INFO  04:01:19 Hosting environment: Development
+INFO  04:01:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:01:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:01:19 GetRequest() called with json input
+INFO  04:01:26 GetRequest() called with json input
+INFO  04:03:19 Application started. Press Ctrl+C to shut down.
+INFO  04:03:19 Application started. Press Ctrl+C to shut down.
+INFO  04:03:19 Hosting environment: Development
+INFO  04:03:19 Hosting environment: Development
+INFO  04:03:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:03:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:03:20 GetRequest() called with json input
+INFO  04:04:11 Application started. Press Ctrl+C to shut down.
+INFO  04:04:11 Application started. Press Ctrl+C to shut down.
+INFO  04:04:11 Hosting environment: Development
+INFO  04:04:11 Hosting environment: Development
+INFO  04:04:11 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:04:11 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:04:11 GetRequest() called with json input
+INFO  04:08:34 Application started. Press Ctrl+C to shut down.
+INFO  04:08:34 Application started. Press Ctrl+C to shut down.
+INFO  04:08:34 Hosting environment: Development
+INFO  04:08:34 Hosting environment: Development
+INFO  04:08:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:08:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:08:35 GetRequest() called with json input
+INFO  04:33:42 Application started. Press Ctrl+C to shut down.
+INFO  04:33:42 Application started. Press Ctrl+C to shut down.
+INFO  04:33:42 Hosting environment: Development
+INFO  04:33:42 Hosting environment: Development
+INFO  04:33:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:33:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  04:33:42 GetRequest() called with json input
+INFO  04:34:51 GetRequest() called with json input
+INFO  05:01:57 Application started. Press Ctrl+C to shut down.
+INFO  05:01:57 Application started. Press Ctrl+C to shut down.
+INFO  05:01:57 Hosting environment: Development
+INFO  05:01:57 Hosting environment: Development
+INFO  05:01:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:01:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:01:58 GetRequest() called with json input
+INFO  05:03:46 Application started. Press Ctrl+C to shut down.
+INFO  05:03:46 Application started. Press Ctrl+C to shut down.
+INFO  05:03:46 Hosting environment: Development
+INFO  05:03:46 Hosting environment: Development
+INFO  05:03:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:03:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:03:46 GetRequest() called with json input
+INFO  05:06:47 GetRequest() called with json input
+INFO  05:09:24 Application started. Press Ctrl+C to shut down.
+INFO  05:09:24 Application started. Press Ctrl+C to shut down.
+INFO  05:09:24 Hosting environment: Development
+INFO  05:09:24 Hosting environment: Development
+INFO  05:09:24 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:09:24 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:09:25 GetRequest() called with json input
+INFO  05:11:20 Application started. Press Ctrl+C to shut down.
+INFO  05:11:20 Application started. Press Ctrl+C to shut down.
+INFO  05:11:20 Hosting environment: Development
+INFO  05:11:20 Hosting environment: Development
+INFO  05:11:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:11:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:11:21 GetRequest() called with json input
+INFO  05:11:31 GetRequest() called with json input
+INFO  05:15:05 Application started. Press Ctrl+C to shut down.
+INFO  05:15:05 Application started. Press Ctrl+C to shut down.
+INFO  05:15:05 Hosting environment: Development
+INFO  05:15:05 Hosting environment: Development
+INFO  05:15:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:15:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:15:06 GetRequest() called with json input
+INFO  05:15:29 GetRequest() called with json input
+INFO  05:22:13 Application started. Press Ctrl+C to shut down.
+INFO  05:22:13 Application started. Press Ctrl+C to shut down.
+INFO  05:22:13 Hosting environment: Development
+INFO  05:22:13 Hosting environment: Development
+INFO  05:22:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:22:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:22:13 GetRequest() called with json input
+INFO  05:22:23 GetRequest() called with json input
+INFO  05:23:10 GetRequest() called with json input
+INFO  05:34:20 Application started. Press Ctrl+C to shut down.
+INFO  05:34:20 Application started. Press Ctrl+C to shut down.
+INFO  05:34:20 Hosting environment: Development
+INFO  05:34:20 Hosting environment: Development
+INFO  05:34:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:34:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:34:21 GetRequest() called with json input
+ERROR 05:35:41 An unhandled exception has occurred while executing the request.
+System.Transactions.TransactionInDoubtException: The transaction is in doubt.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The transaction operation cannot be performed because there are pending requests working on this transaction.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.TdsParser.TdsExecuteTransactionManagerRequest(Byte[] buffer, TransactionManagerRequestType request, String transactionName, TransactionManagerIsolationLevel isoLevel, Int32 timeout, SqlInternalTransaction transaction, TdsParserStateObject stateObj, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransactionYukon(TransactionRequest transactionRequest, String transactionName, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransaction(TransactionRequest transactionRequest, String name, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlDelegatedTransaction.SinglePhaseCommit(SinglePhaseEnlistment enlistment)
+ClientConnectionId:7be17831-e2d1-4c24-891f-769b624ad694
+Error Number:3981,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at System.Transactions.TransactionStateInDoubt.EndCommit(InternalTransaction tx)
+   at System.Transactions.CommittableTransaction.Commit()
+   at System.Transactions.TransactionScope.InternalDispose()
+   at System.Transactions.TransactionScope.Dispose()
+   at EmployeeDetails.Controllers.EmployeesController.PostEmployee(Employee employee) in C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails\Controllers\EmployeesController.cs:line 74
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:35:41 An unhandled exception has occurred while executing the request.
+System.Transactions.TransactionInDoubtException: The transaction is in doubt.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The transaction operation cannot be performed because there are pending requests working on this transaction.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.TdsParser.TdsExecuteTransactionManagerRequest(Byte[] buffer, TransactionManagerRequestType request, String transactionName, TransactionManagerIsolationLevel isoLevel, Int32 timeout, SqlInternalTransaction transaction, TdsParserStateObject stateObj, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransactionYukon(TransactionRequest transactionRequest, String transactionName, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransaction(TransactionRequest transactionRequest, String name, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlDelegatedTransaction.SinglePhaseCommit(SinglePhaseEnlistment enlistment)
+ClientConnectionId:7be17831-e2d1-4c24-891f-769b624ad694
+Error Number:3981,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at System.Transactions.TransactionStateInDoubt.EndCommit(InternalTransaction tx)
+   at System.Transactions.CommittableTransaction.Commit()
+   at System.Transactions.TransactionScope.InternalDispose()
+   at System.Transactions.TransactionScope.Dispose()
+   at EmployeeDetails.Controllers.EmployeesController.PostEmployee(Employee employee) in C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails\Controllers\EmployeesController.cs:line 74
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:36:04 An error occurred using the connection to database 'LeaveSystem' on server 'DESKTOP-D3RM09L\SQLEXPRESS'.
+ERROR 05:36:04 An error occurred using the connection to database 'LeaveSystem' on server 'DESKTOP-D3RM09L\SQLEXPRESS'.
+INFO  05:39:31 Application started. Press Ctrl+C to shut down.
+INFO  05:39:31 Application started. Press Ctrl+C to shut down.
+INFO  05:39:31 Hosting environment: Development
+INFO  05:39:31 Hosting environment: Development
+INFO  05:39:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:39:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:39:31 GetRequest() called with json input
+INFO  05:39:37 GetRequest() called with json input
+INFO  05:41:09 GetRequest() called with json input
+ERROR 05:42:03 An unhandled exception has occurred while executing the request.
+System.Transactions.TransactionAbortedException: The transaction has aborted.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The transaction operation cannot be performed because there are pending requests working on this transaction.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.TdsParser.TdsExecuteTransactionManagerRequest(Byte[] buffer, TransactionManagerRequestType request, String transactionName, TransactionManagerIsolationLevel isoLevel, Int32 timeout, SqlInternalTransaction transaction, TdsParserStateObject stateObj, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransactionYukon(TransactionRequest transactionRequest, String transactionName, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransaction(TransactionRequest transactionRequest, String name, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlDelegatedTransaction.SinglePhaseCommit(SinglePhaseEnlistment enlistment)
+ClientConnectionId:723cdc68-3d68-4d74-9ed3-45a9e65193c8
+Error Number:3981,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at System.Transactions.TransactionStateAborted.EndCommit(InternalTransaction tx)
+   at System.Transactions.CommittableTransaction.Commit()
+   at System.Transactions.TransactionScope.InternalDispose()
+   at System.Transactions.TransactionScope.Dispose()
+   at EmployeeDetails.Controllers.EmployeesController.PostEmployee(Employee employee) in C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails\Controllers\EmployeesController.cs:line 74
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:42:03 An unhandled exception has occurred while executing the request.
+System.Transactions.TransactionAbortedException: The transaction has aborted.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): The transaction operation cannot be performed because there are pending requests working on this transaction.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.TdsParser.Run(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj)
+   at Microsoft.Data.SqlClient.TdsParser.TdsExecuteTransactionManagerRequest(Byte[] buffer, TransactionManagerRequestType request, String transactionName, TransactionManagerIsolationLevel isoLevel, Int32 timeout, SqlInternalTransaction transaction, TdsParserStateObject stateObj, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransactionYukon(TransactionRequest transactionRequest, String transactionName, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlInternalConnectionTds.ExecuteTransaction(TransactionRequest transactionRequest, String name, IsolationLevel iso, SqlInternalTransaction internalTransaction, Boolean isDelegateControlRequest)
+   at Microsoft.Data.SqlClient.SqlDelegatedTransaction.SinglePhaseCommit(SinglePhaseEnlistment enlistment)
+ClientConnectionId:723cdc68-3d68-4d74-9ed3-45a9e65193c8
+Error Number:3981,State:1,Class:16
+   --- End of inner exception stack trace ---
+   at System.Transactions.TransactionStateAborted.EndCommit(InternalTransaction tx)
+   at System.Transactions.CommittableTransaction.Commit()
+   at System.Transactions.TransactionScope.InternalDispose()
+   at System.Transactions.TransactionScope.Dispose()
+   at EmployeeDetails.Controllers.EmployeesController.PostEmployee(Employee employee) in C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails\Controllers\EmployeesController.cs:line 74
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 05:42:22 An error occurred using the connection to database 'LeaveSystem' on server 'DESKTOP-D3RM09L\SQLEXPRESS'.
+ERROR 05:42:22 An error occurred using the connection to database 'LeaveSystem' on server 'DESKTOP-D3RM09L\SQLEXPRESS'.
+INFO  05:43:23 GetRequest() called with json input
+INFO  05:50:30 Application started. Press Ctrl+C to shut down.
+INFO  05:50:30 Application started. Press Ctrl+C to shut down.
+INFO  05:50:30 Hosting environment: Development
+INFO  05:50:30 Hosting environment: Development
+INFO  05:50:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:50:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:50:31 GetRequest() called with json input
+INFO  05:51:56 Application started. Press Ctrl+C to shut down.
+INFO  05:51:56 Application started. Press Ctrl+C to shut down.
+INFO  05:51:56 Hosting environment: Development
+INFO  05:51:56 Hosting environment: Development
+INFO  05:51:56 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:51:56 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:51:56 GetRequest() called with json input
+INFO  05:52:40 Application started. Press Ctrl+C to shut down.
+INFO  05:52:40 Application started. Press Ctrl+C to shut down.
+INFO  05:52:40 Hosting environment: Development
+INFO  05:52:40 Hosting environment: Development
+INFO  05:52:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:52:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  05:52:40 GetRequest() called with json input
+INFO  05:55:55 GetRequest() called with json input
+INFO  05:57:32 GetRequest() called with json input
+INFO  06:00:02 Application started. Press Ctrl+C to shut down.
+INFO  06:00:02 Application started. Press Ctrl+C to shut down.
+INFO  06:00:02 Hosting environment: Development
+INFO  06:00:02 Hosting environment: Development
+INFO  06:00:02 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:00:02 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:00:02 GetRequest() called with json input
+INFO  06:00:12 GetRequest() called with json input
+INFO  06:00:57 GetRequest() called with json input
+INFO  06:01:11 GetRequest() called with json input
+INFO  06:09:16 Application started. Press Ctrl+C to shut down.
+INFO  06:09:16 Application started. Press Ctrl+C to shut down.
+INFO  06:09:16 Hosting environment: Development
+INFO  06:09:16 Hosting environment: Development
+INFO  06:09:16 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:09:16 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:09:16 GetRequest() called with json input
+INFO  06:09:25 GetRequest() called with json input
+INFO  06:10:18 Application started. Press Ctrl+C to shut down.
+INFO  06:10:18 Application started. Press Ctrl+C to shut down.
+INFO  06:10:18 Hosting environment: Development
+INFO  06:10:18 Hosting environment: Development
+INFO  06:10:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:10:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:10:19 GetRequest() called with json input
+INFO  06:10:30 GetRequest() called with json input
+INFO  06:12:29 Application started. Press Ctrl+C to shut down.
+INFO  06:12:29 Application started. Press Ctrl+C to shut down.
+INFO  06:12:29 Hosting environment: Development
+INFO  06:12:29 Hosting environment: Development
+INFO  06:12:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:12:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:12:30 GetRequest() called with json input
+INFO  06:14:33 GetRequest() called with json input
+INFO  06:16:34 Application started. Press Ctrl+C to shut down.
+INFO  06:16:34 Application started. Press Ctrl+C to shut down.
+INFO  06:16:34 Hosting environment: Development
+INFO  06:16:34 Hosting environment: Development
+INFO  06:16:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:16:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:16:34 GetRequest() called with json input
+INFO  06:16:43 GetRequest() called with json input
+INFO  06:16:58 GetRequest() called with json input
+INFO  06:20:04 Application started. Press Ctrl+C to shut down.
+INFO  06:20:04 Application started. Press Ctrl+C to shut down.
+INFO  06:20:04 Hosting environment: Development
+INFO  06:20:04 Hosting environment: Development
+INFO  06:20:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:20:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:20:05 GetRequest() called with json input
+INFO  06:20:45 Application started. Press Ctrl+C to shut down.
+INFO  06:20:45 Application started. Press Ctrl+C to shut down.
+INFO  06:20:45 Hosting environment: Development
+INFO  06:20:45 Hosting environment: Development
+INFO  06:20:45 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:20:45 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:20:46 GetRequest() called with json input
+INFO  06:20:57 GetRequest() called with json input
+INFO  06:21:59 Application started. Press Ctrl+C to shut down.
+INFO  06:21:59 Application started. Press Ctrl+C to shut down.
+INFO  06:21:59 Hosting environment: Development
+INFO  06:21:59 Hosting environment: Development
+INFO  06:21:59 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:21:59 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:21:59 GetRequest() called with json input
+INFO  06:22:09 GetRequest() called with json input
+INFO  06:24:18 GetRequest() called with json input
+INFO  06:25:13 Application started. Press Ctrl+C to shut down.
+INFO  06:25:13 Application started. Press Ctrl+C to shut down.
+INFO  06:25:13 Hosting environment: Development
+INFO  06:25:13 Hosting environment: Development
+INFO  06:25:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:25:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:25:14 GetRequest() called with json input
+INFO  06:25:23 GetRequest() called with json input
+INFO  06:25:40 GetRequest() called with json input
+INFO  06:26:08 Application started. Press Ctrl+C to shut down.
+INFO  06:26:08 Application started. Press Ctrl+C to shut down.
+INFO  06:26:08 Hosting environment: Development
+INFO  06:26:08 Hosting environment: Development
+INFO  06:26:08 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:26:08 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:26:09 GetRequest() called with json input
+INFO  06:26:18 GetRequest() called with json input
+INFO  06:27:51 GetRequest() called with json input
+INFO  06:43:48 Application started. Press Ctrl+C to shut down.
+INFO  06:43:48 Application started. Press Ctrl+C to shut down.
+INFO  06:43:48 Hosting environment: Development
+INFO  06:43:48 Hosting environment: Development
+INFO  06:43:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:43:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:43:49 GetRequest() called with json input
+INFO  06:43:59 GetRequest() called with json input
+INFO  06:45:57 GetRequest() called with json input
+INFO  06:47:12 Application started. Press Ctrl+C to shut down.
+INFO  06:47:12 Application started. Press Ctrl+C to shut down.
+INFO  06:47:12 Hosting environment: Development
+INFO  06:47:12 Hosting environment: Development
+INFO  06:47:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:47:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  06:47:12 GetRequest() called with json input
+INFO  06:47:21 GetRequest() called with json input
+INFO  06:47:54 GetRequest() called with json input
+INFO  06:48:42 GetRequest() called with json input
+INFO  07:37:04 Application started. Press Ctrl+C to shut down.
+INFO  07:37:04 Application started. Press Ctrl+C to shut down.
+INFO  07:37:04 Hosting environment: Development
+INFO  07:37:04 Hosting environment: Development
+INFO  07:37:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  07:37:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  07:37:05 GetRequest() called with json input
+INFO  07:37:19 Application started. Press Ctrl+C to shut down.
+INFO  07:37:19 Application started. Press Ctrl+C to shut down.
+INFO  07:37:19 Hosting environment: Development
+INFO  07:37:19 Hosting environment: Development
+INFO  07:37:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  07:37:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  07:37:20 GetRequest() called with json input
+INFO  07:37:44 Application started. Press Ctrl+C to shut down.
+INFO  07:37:44 Application started. Press Ctrl+C to shut down.
+INFO  07:37:44 Hosting environment: Development
+INFO  07:37:44 Hosting environment: Development
+INFO  07:37:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  07:37:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  07:37:45 GetRequest() called with json input
+INFO  07:37:46 GetRequest() called with json input
+INFO  07:38:02 GetRequest() called with json input
+INFO  07:38:29 GetRequest() called with json input
+INFO  08:27:44 Application started. Press Ctrl+C to shut down.
+INFO  08:27:44 Application started. Press Ctrl+C to shut down.
+INFO  08:27:44 Hosting environment: Development
+INFO  08:27:44 Hosting environment: Development
+INFO  08:27:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  08:27:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\EmployeeDetails
+INFO  08:27:44 GetRequest() called with json input
+INFO  08:27:53 GetRequest() called with json input
+INFO  08:28:18 GetRequest() called with json input

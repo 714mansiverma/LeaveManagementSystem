@@ -1,0 +1,264 @@
+INFO  05:50:49 Application started. Press Ctrl+C to shut down.
+INFO  05:50:49 Application started. Press Ctrl+C to shut down.
+INFO  05:50:49 Hosting environment: Development
+INFO  05:50:49 Hosting environment: Development
+INFO  05:50:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  05:50:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  05:50:49 GetRequest() called with json input
+INFO  07:33:31 Application started. Press Ctrl+C to shut down.
+INFO  07:33:31 Application started. Press Ctrl+C to shut down.
+INFO  07:33:31 Hosting environment: Development
+INFO  07:33:31 Hosting environment: Development
+INFO  07:33:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:33:31 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:33:31 GetRequest() called with json input
+INFO  07:42:57 Application started. Press Ctrl+C to shut down.
+INFO  07:42:57 Application started. Press Ctrl+C to shut down.
+INFO  07:42:57 Hosting environment: Development
+INFO  07:42:57 Hosting environment: Development
+INFO  07:42:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:42:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+ERROR 07:42:57 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:42:57 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:44:25 Application started. Press Ctrl+C to shut down.
+INFO  07:44:25 Application started. Press Ctrl+C to shut down.
+INFO  07:44:25 Hosting environment: Development
+INFO  07:44:25 Hosting environment: Development
+INFO  07:44:25 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:44:25 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+ERROR 07:44:25 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:44:25 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:45:59 Application started. Press Ctrl+C to shut down.
+INFO  07:45:59 Application started. Press Ctrl+C to shut down.
+INFO  07:45:59 Hosting environment: Development
+INFO  07:45:59 Hosting environment: Development
+INFO  07:45:59 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:45:59 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+ERROR 07:45:59 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:45:59 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:47:03 Application started. Press Ctrl+C to shut down.
+INFO  07:47:03 Application started. Press Ctrl+C to shut down.
+INFO  07:47:03 Hosting environment: Development
+INFO  07:47:03 Hosting environment: Development
+INFO  07:47:03 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:47:03 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+ERROR 07:47:03 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:47:03 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:48:40 Application started. Press Ctrl+C to shut down.
+INFO  07:48:40 Application started. Press Ctrl+C to shut down.
+INFO  07:48:40 Hosting environment: Development
+INFO  07:48:40 Hosting environment: Development
+INFO  07:48:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:48:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+ERROR 07:48:40 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 07:48:40 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Admin.Repository.IAdmin`1[Admin.Models.AuthorizationTable]' while attempting to activate 'Admin.Controllers.AuthorizationTablesController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  07:53:46 Application started. Press Ctrl+C to shut down.
+INFO  07:53:46 Application started. Press Ctrl+C to shut down.
+INFO  07:53:46 Hosting environment: Development
+INFO  07:53:46 Hosting environment: Development
+INFO  07:53:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:53:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:53:46 GetRequest() called with json input
+INFO  07:57:42 Application started. Press Ctrl+C to shut down.
+INFO  07:57:42 Application started. Press Ctrl+C to shut down.
+INFO  07:57:42 Hosting environment: Development
+INFO  07:57:42 Hosting environment: Development
+INFO  07:57:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:57:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:57:43 GetRequest() called with json input
+INFO  08:11:15 Application started. Press Ctrl+C to shut down.
+INFO  08:11:15 Application started. Press Ctrl+C to shut down.
+INFO  08:11:15 Hosting environment: Development
+INFO  08:11:15 Hosting environment: Development
+INFO  08:11:15 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:11:15 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:11:15 GetRequest() called with json input
+INFO  08:12:12 Application started. Press Ctrl+C to shut down.
+INFO  08:12:12 Application started. Press Ctrl+C to shut down.
+INFO  08:12:12 Hosting environment: Development
+INFO  08:12:12 Hosting environment: Development
+INFO  08:12:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:12:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:12:12 GetRequest() called with json input
+ERROR 08:12:52 Failed executing DbCommand (198ms) [Parameters=[@p0='?' (Size = 50) (DbType = AnsiString), @p1='?' (Size = 50) (DbType = AnsiString), @p2='?' (Size = 50) (DbType = AnsiString)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Authorization_Table] ([Emp_Id], [Pswd], [UserName])
+VALUES (@p0, @p1, @p2);
+ERROR 08:12:52 Failed executing DbCommand (198ms) [Parameters=[@p0='?' (Size = 50) (DbType = AnsiString), @p1='?' (Size = 50) (DbType = AnsiString), @p2='?' (Size = 50) (DbType = AnsiString)], CommandType='Text', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [Authorization_Table] ([Emp_Id], [Pswd], [UserName])
+VALUES (@p0, @p1, @p2);
+INFO  08:13:06 GetRequest() called with json input
+INFO  08:17:08 Application started. Press Ctrl+C to shut down.
+INFO  08:17:08 Application started. Press Ctrl+C to shut down.
+INFO  08:17:08 Hosting environment: Development
+INFO  08:17:08 Hosting environment: Development
+INFO  08:17:08 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:17:08 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:17:08 GetRequest() called with json input
+INFO  08:18:29 Application started. Press Ctrl+C to shut down.
+INFO  08:18:29 Application started. Press Ctrl+C to shut down.
+INFO  08:18:29 Hosting environment: Development
+INFO  08:18:29 Hosting environment: Development
+INFO  08:18:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:18:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:18:29 GetRequest() called with json input
+INFO  08:19:47 GetRequest() called with json input
+INFO  11:29:00 Application started. Press Ctrl+C to shut down.
+INFO  11:29:00 Application started. Press Ctrl+C to shut down.
+INFO  11:29:00 Hosting environment: Development
+INFO  11:29:00 Hosting environment: Development
+INFO  11:29:00 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  11:29:00 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  11:29:00 GetRequest() called with json input
+INFO  07:06:12 Application started. Press Ctrl+C to shut down.
+INFO  07:06:12 Application started. Press Ctrl+C to shut down.
+INFO  07:06:12 Hosting environment: Development
+INFO  07:06:12 Hosting environment: Development
+INFO  07:06:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:06:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:06:13 GetRequest() called with json input
+INFO  07:09:27 Application started. Press Ctrl+C to shut down.
+INFO  07:09:27 Application started. Press Ctrl+C to shut down.
+INFO  07:09:27 Hosting environment: Development
+INFO  07:09:27 Hosting environment: Development
+INFO  07:09:28 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:09:28 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  07:09:28 GetRequest() called with json input
+INFO  08:49:48 Application started. Press Ctrl+C to shut down.
+INFO  08:49:48 Application started. Press Ctrl+C to shut down.
+INFO  08:49:48 Hosting environment: Development
+INFO  08:49:48 Hosting environment: Development
+INFO  08:49:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:49:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Admin
+INFO  08:49:49 GetRequest() called with json input

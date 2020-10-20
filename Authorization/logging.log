@@ -1,0 +1,564 @@
+INFO  12:13:50 Application started. Press Ctrl+C to shut down.
+INFO  12:13:50 Application started. Press Ctrl+C to shut down.
+INFO  12:13:50 Hosting environment: Development
+INFO  12:13:50 Hosting environment: Development
+INFO  12:13:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:13:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+ERROR 12:13:57 Connection ID "18374686494167138420", Request ID "80000075-0003-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Authorization.Controllers.AuthController.Login (Authorization). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+ERROR 12:13:57 Connection ID "18374686494167138420", Request ID "80000075-0003-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - Authorization.Controllers.AuthController.Login (Authorization). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperations(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePaths(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwagger(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+INFO  12:17:46 Application started. Press Ctrl+C to shut down.
+INFO  12:17:46 Application started. Press Ctrl+C to shut down.
+INFO  12:17:46 Hosting environment: Development
+INFO  12:17:46 Hosting environment: Development
+INFO  12:17:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:17:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:19:18 GetRequest() called with json input
+INFO  12:22:27 Application started. Press Ctrl+C to shut down.
+INFO  12:22:27 Application started. Press Ctrl+C to shut down.
+INFO  12:22:27 Hosting environment: Development
+INFO  12:22:27 Hosting environment: Development
+INFO  12:22:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:22:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:26:03 Application started. Press Ctrl+C to shut down.
+INFO  12:26:03 Application started. Press Ctrl+C to shut down.
+INFO  12:26:03 Hosting environment: Development
+INFO  12:26:03 Hosting environment: Development
+INFO  12:26:03 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:26:03 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:26:42 Application started. Press Ctrl+C to shut down.
+INFO  12:26:42 Application started. Press Ctrl+C to shut down.
+INFO  12:26:42 Hosting environment: Development
+INFO  12:26:42 Hosting environment: Development
+INFO  12:26:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:26:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:27:27 GetRequest() called with json input
+INFO  12:30:56 Application started. Press Ctrl+C to shut down.
+INFO  12:30:56 Application started. Press Ctrl+C to shut down.
+INFO  12:30:56 Hosting environment: Development
+INFO  12:30:56 Hosting environment: Development
+INFO  12:30:56 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:30:56 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:32:30 Application started. Press Ctrl+C to shut down.
+INFO  12:32:30 Application started. Press Ctrl+C to shut down.
+INFO  12:32:30 Hosting environment: Development
+INFO  12:32:30 Hosting environment: Development
+INFO  12:32:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:32:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:32:58 GetRequest() called with json input
+INFO  12:33:48 Application started. Press Ctrl+C to shut down.
+INFO  12:33:48 Application started. Press Ctrl+C to shut down.
+INFO  12:33:48 Hosting environment: Development
+INFO  12:33:48 Hosting environment: Development
+INFO  12:33:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:33:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:34:00 Application started. Press Ctrl+C to shut down.
+INFO  12:34:00 Application started. Press Ctrl+C to shut down.
+INFO  12:34:00 Hosting environment: Development
+INFO  12:34:00 Hosting environment: Development
+INFO  12:34:00 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:34:00 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:34:20 GetRequest() called with json input
+INFO  12:35:09 Application started. Press Ctrl+C to shut down.
+INFO  12:35:09 Application started. Press Ctrl+C to shut down.
+INFO  12:35:09 Hosting environment: Development
+INFO  12:35:09 Hosting environment: Development
+INFO  12:35:09 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:35:09 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:35:29 GetRequest() called with json input
+INFO  08:49:04 Application started. Press Ctrl+C to shut down.
+INFO  08:49:04 Application started. Press Ctrl+C to shut down.
+INFO  08:49:04 Hosting environment: Development
+INFO  08:49:04 Hosting environment: Development
+INFO  08:49:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:49:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+ERROR 08:49:26 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Authorization.Repository.IAuth' while attempting to activate 'Authorization.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 08:49:26 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Authorization.Repository.IAuth' while attempting to activate 'Authorization.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:50:06 Application started. Press Ctrl+C to shut down.
+INFO  08:50:06 Application started. Press Ctrl+C to shut down.
+INFO  08:50:06 Hosting environment: Development
+INFO  08:50:06 Hosting environment: Development
+INFO  08:50:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:50:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+ERROR 08:50:32 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Authorization.Repository.IAuth' while attempting to activate 'Authorization.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 08:50:32 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Authorization.Repository.IAuth' while attempting to activate 'Authorization.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:51:39 Application started. Press Ctrl+C to shut down.
+INFO  08:51:39 Application started. Press Ctrl+C to shut down.
+INFO  08:51:39 Hosting environment: Development
+INFO  08:51:39 Hosting environment: Development
+INFO  08:51:39 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:51:39 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+ERROR 08:51:50 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Authorization.Repository.IAuth' while attempting to activate 'Authorization.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+ERROR 08:51:50 An unhandled exception has occurred while executing the request.
+System.InvalidOperationException: Unable to resolve service for type 'Authorization.Repository.IAuth' while attempting to activate 'Authorization.Controllers.AuthController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location where exception was thrown ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+INFO  08:53:06 Application started. Press Ctrl+C to shut down.
+INFO  08:53:06 Application started. Press Ctrl+C to shut down.
+INFO  08:53:06 Hosting environment: Development
+INFO  08:53:06 Hosting environment: Development
+INFO  08:53:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:53:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:53:23 GetRequest() called with json input
+INFO  08:53:52 GetRequest() called with json input
+INFO  09:01:50 Application started. Press Ctrl+C to shut down.
+INFO  09:01:50 Application started. Press Ctrl+C to shut down.
+INFO  09:01:50 Hosting environment: Development
+INFO  09:01:50 Hosting environment: Development
+INFO  09:01:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  09:01:50 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  09:02:17 GetRequest() called with json input
+INFO  09:24:35 Application started. Press Ctrl+C to shut down.
+INFO  09:24:35 Application started. Press Ctrl+C to shut down.
+INFO  09:24:35 Hosting environment: Development
+INFO  09:24:35 Hosting environment: Development
+INFO  09:24:35 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  09:24:35 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  09:25:27 Application started. Press Ctrl+C to shut down.
+INFO  09:25:27 Application started. Press Ctrl+C to shut down.
+INFO  09:25:27 Hosting environment: Development
+INFO  09:25:27 Hosting environment: Development
+INFO  09:25:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  09:25:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  09:25:35 GetRequest() called with json input
+INFO  09:26:09 GetRequest() called with json input
+INFO  11:06:40 Application started. Press Ctrl+C to shut down.
+INFO  11:06:40 Application started. Press Ctrl+C to shut down.
+INFO  11:06:40 Hosting environment: Development
+INFO  11:06:40 Hosting environment: Development
+INFO  11:06:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  11:06:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  11:08:45 GetRequest() called with json input
+INFO  11:08:45 GetRequest() called with json input
+INFO  11:08:45 GetRequest() called with json input
+INFO  11:12:37 Application started. Press Ctrl+C to shut down.
+INFO  11:12:37 Application started. Press Ctrl+C to shut down.
+INFO  11:12:37 Hosting environment: Development
+INFO  11:12:37 Hosting environment: Development
+INFO  11:12:37 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  11:12:37 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  11:12:38 GetRequest() called with json input
+INFO  11:12:46 GetRequest() called with json input
+INFO  11:14:12 Application started. Press Ctrl+C to shut down.
+INFO  11:14:12 Application started. Press Ctrl+C to shut down.
+INFO  11:14:12 Hosting environment: Development
+INFO  11:14:12 Hosting environment: Development
+INFO  11:14:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  11:14:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  11:15:50 GetRequest() called with json input
+INFO  11:17:07 GetRequest() called with json input
+INFO  08:59:27 Application started. Press Ctrl+C to shut down.
+INFO  08:59:27 Application started. Press Ctrl+C to shut down.
+INFO  08:59:27 Hosting environment: Development
+INFO  08:59:27 Hosting environment: Development
+INFO  08:59:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:59:27 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:59:29 GetRequest() called with json input
+INFO  08:59:29 GetRequest() called with json input
+INFO  10:03:28 Application started. Press Ctrl+C to shut down.
+INFO  10:03:28 Application started. Press Ctrl+C to shut down.
+INFO  10:03:28 Hosting environment: Development
+INFO  10:03:28 Hosting environment: Development
+INFO  10:03:28 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  10:03:28 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  10:03:42 GetRequest() called with json input
+INFO  10:04:05 GetRequest() called with json input
+INFO  10:15:06 Application started. Press Ctrl+C to shut down.
+INFO  10:15:06 Application started. Press Ctrl+C to shut down.
+INFO  10:15:06 Hosting environment: Development
+INFO  10:15:06 Hosting environment: Development
+INFO  10:15:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  10:15:06 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  10:15:17 GetRequest() called with json input
+INFO  10:15:40 GetRequest() called with json input
+INFO  12:07:12 Application started. Press Ctrl+C to shut down.
+INFO  12:07:12 Application started. Press Ctrl+C to shut down.
+INFO  12:07:12 Hosting environment: Development
+INFO  12:07:12 Hosting environment: Development
+INFO  12:07:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:07:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:07:34 GetRequest() called with json input
+INFO  12:31:30 Application started. Press Ctrl+C to shut down.
+INFO  12:31:30 Application started. Press Ctrl+C to shut down.
+INFO  12:31:30 Hosting environment: Development
+INFO  12:31:30 Hosting environment: Development
+INFO  12:31:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:31:30 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:31:43 GetRequest() called with json input
+INFO  12:33:48 Application started. Press Ctrl+C to shut down.
+INFO  12:33:48 Application started. Press Ctrl+C to shut down.
+INFO  12:33:48 Hosting environment: Development
+INFO  12:33:48 Hosting environment: Development
+INFO  12:33:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:33:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:33:56 GetRequest() called with json input
+INFO  12:34:48 Application started. Press Ctrl+C to shut down.
+INFO  12:34:48 Application started. Press Ctrl+C to shut down.
+INFO  12:34:48 Hosting environment: Development
+INFO  12:34:48 Hosting environment: Development
+INFO  12:34:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:34:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:34:58 GetRequest() called with json input
+INFO  12:37:23 Application started. Press Ctrl+C to shut down.
+INFO  12:37:23 Application started. Press Ctrl+C to shut down.
+INFO  12:37:23 Hosting environment: Development
+INFO  12:37:23 Hosting environment: Development
+INFO  12:37:23 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:37:23 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:37:32 GetRequest() called with json input
+INFO  12:46:57 Application started. Press Ctrl+C to shut down.
+INFO  12:46:57 Application started. Press Ctrl+C to shut down.
+INFO  12:46:57 Hosting environment: Development
+INFO  12:46:57 Hosting environment: Development
+INFO  12:46:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:46:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:47:12 GetRequest() called with json input
+INFO  12:52:13 Application started. Press Ctrl+C to shut down.
+INFO  12:52:13 Application started. Press Ctrl+C to shut down.
+INFO  12:52:13 Hosting environment: Development
+INFO  12:52:13 Hosting environment: Development
+INFO  12:52:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:52:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  12:52:22 GetRequest() called with json input
+INFO  02:08:10 Application started. Press Ctrl+C to shut down.
+INFO  02:08:10 Application started. Press Ctrl+C to shut down.
+INFO  02:08:10 Hosting environment: Development
+INFO  02:08:10 Hosting environment: Development
+INFO  02:08:10 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:08:10 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:08:19 GetRequest() called with json input
+INFO  02:09:18 Application started. Press Ctrl+C to shut down.
+INFO  02:09:18 Application started. Press Ctrl+C to shut down.
+INFO  02:09:18 Hosting environment: Development
+INFO  02:09:18 Hosting environment: Development
+INFO  02:09:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:09:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:09:27 GetRequest() called with json input
+INFO  02:10:58 Application started. Press Ctrl+C to shut down.
+INFO  02:10:58 Application started. Press Ctrl+C to shut down.
+INFO  02:10:58 Hosting environment: Development
+INFO  02:10:58 Hosting environment: Development
+INFO  02:10:58 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:10:58 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:11:07 GetRequest() called with json input
+INFO  02:13:12 Application started. Press Ctrl+C to shut down.
+INFO  02:13:12 Application started. Press Ctrl+C to shut down.
+INFO  02:13:12 Hosting environment: Development
+INFO  02:13:12 Hosting environment: Development
+INFO  02:13:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:13:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:13:20 GetRequest() called with json input
+INFO  02:13:48 Application started. Press Ctrl+C to shut down.
+INFO  02:13:48 Application started. Press Ctrl+C to shut down.
+INFO  02:13:48 Hosting environment: Development
+INFO  02:13:48 Hosting environment: Development
+INFO  02:13:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:13:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:13:57 GetRequest() called with json input
+INFO  02:14:49 Application started. Press Ctrl+C to shut down.
+INFO  02:14:49 Application started. Press Ctrl+C to shut down.
+INFO  02:14:49 Hosting environment: Development
+INFO  02:14:49 Hosting environment: Development
+INFO  02:14:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:14:49 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:14:58 GetRequest() called with json input
+INFO  02:17:28 Application started. Press Ctrl+C to shut down.
+INFO  02:17:28 Application started. Press Ctrl+C to shut down.
+INFO  02:17:29 Hosting environment: Development
+INFO  02:17:29 Hosting environment: Development
+INFO  02:17:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:17:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:17:37 GetRequest() called with json input
+INFO  02:18:43 Application started. Press Ctrl+C to shut down.
+INFO  02:18:43 Application started. Press Ctrl+C to shut down.
+INFO  02:18:43 Hosting environment: Development
+INFO  02:18:43 Hosting environment: Development
+INFO  02:18:43 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:18:43 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:18:51 GetRequest() called with json input
+INFO  02:35:40 Application started. Press Ctrl+C to shut down.
+INFO  02:35:40 Application started. Press Ctrl+C to shut down.
+INFO  02:35:40 Hosting environment: Development
+INFO  02:35:40 Hosting environment: Development
+INFO  02:35:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:35:40 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  02:35:48 GetRequest() called with json input
+INFO  04:00:05 Application started. Press Ctrl+C to shut down.
+INFO  04:00:05 Application started. Press Ctrl+C to shut down.
+INFO  04:00:05 Hosting environment: Development
+INFO  04:00:05 Hosting environment: Development
+INFO  04:00:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:00:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:00:14 GetRequest() called with json input
+INFO  04:00:42 GetRequest() called with json input
+INFO  04:00:49 GetRequest() called with json input
+INFO  04:04:10 Application started. Press Ctrl+C to shut down.
+INFO  04:04:10 Application started. Press Ctrl+C to shut down.
+INFO  04:04:10 Hosting environment: Development
+INFO  04:04:10 Hosting environment: Development
+INFO  04:04:10 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:04:10 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:06:05 GetRequest() called with json input
+INFO  04:06:29 GetRequest() called with json input
+INFO  04:06:36 GetRequest() called with json input
+INFO  04:08:34 Application started. Press Ctrl+C to shut down.
+INFO  04:08:34 Application started. Press Ctrl+C to shut down.
+INFO  04:08:34 Hosting environment: Development
+INFO  04:08:34 Hosting environment: Development
+INFO  04:08:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:08:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:08:47 GetRequest() called with json input
+INFO  04:08:57 GetRequest() called with json input
+INFO  04:09:16 GetRequest() called with json input
+INFO  04:09:24 GetRequest() called with json input
+INFO  04:33:42 Application started. Press Ctrl+C to shut down.
+INFO  04:33:42 Application started. Press Ctrl+C to shut down.
+INFO  04:33:42 Hosting environment: Development
+INFO  04:33:42 Hosting environment: Development
+INFO  04:33:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:33:42 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  04:34:14 GetRequest() called with json input
+INFO  04:34:39 GetRequest() called with json input
+INFO  04:34:45 GetRequest() called with json input
+INFO  05:01:57 Application started. Press Ctrl+C to shut down.
+INFO  05:01:57 Application started. Press Ctrl+C to shut down.
+INFO  05:01:57 Hosting environment: Development
+INFO  05:01:57 Hosting environment: Development
+INFO  05:01:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:01:57 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:02:11 GetRequest() called with json input
+INFO  05:03:46 Application started. Press Ctrl+C to shut down.
+INFO  05:03:46 Application started. Press Ctrl+C to shut down.
+INFO  05:03:46 Hosting environment: Development
+INFO  05:03:46 Hosting environment: Development
+INFO  05:03:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:03:46 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:03:57 GetRequest() called with json input
+INFO  05:07:06 GetRequest() called with json input
+INFO  05:09:24 Application started. Press Ctrl+C to shut down.
+INFO  05:09:24 Application started. Press Ctrl+C to shut down.
+INFO  05:09:24 Hosting environment: Development
+INFO  05:09:24 Hosting environment: Development
+INFO  05:09:24 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:09:24 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:09:32 GetRequest() called with json input
+INFO  05:09:51 GetRequest() called with json input
+INFO  05:09:58 GetRequest() called with json input
+INFO  05:11:20 Application started. Press Ctrl+C to shut down.
+INFO  05:11:20 Application started. Press Ctrl+C to shut down.
+INFO  05:11:20 Hosting environment: Development
+INFO  05:11:20 Hosting environment: Development
+INFO  05:11:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:11:20 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:11:29 GetRequest() called with json input
+INFO  05:15:05 Application started. Press Ctrl+C to shut down.
+INFO  05:15:05 Application started. Press Ctrl+C to shut down.
+INFO  05:15:05 Hosting environment: Development
+INFO  05:15:05 Hosting environment: Development
+INFO  05:15:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:15:05 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:15:21 GetRequest() called with json input
+INFO  05:15:29 GetRequest() called with json input
+INFO  05:22:13 Application started. Press Ctrl+C to shut down.
+INFO  05:22:13 Application started. Press Ctrl+C to shut down.
+INFO  05:22:13 Hosting environment: Development
+INFO  05:22:13 Hosting environment: Development
+INFO  05:22:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:22:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  05:22:21 GetRequest() called with json input
+INFO  05:23:10 GetRequest() called with json input
+INFO  06:00:02 Application started. Press Ctrl+C to shut down.
+INFO  06:00:02 Application started. Press Ctrl+C to shut down.
+INFO  06:00:02 Hosting environment: Development
+INFO  06:00:02 Hosting environment: Development
+INFO  06:00:02 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:00:02 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:00:10 GetRequest() called with json input
+INFO  06:09:16 Application started. Press Ctrl+C to shut down.
+INFO  06:09:16 Application started. Press Ctrl+C to shut down.
+INFO  06:09:16 Hosting environment: Development
+INFO  06:09:16 Hosting environment: Development
+INFO  06:09:16 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:09:16 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:09:23 GetRequest() called with json input
+INFO  06:10:18 Application started. Press Ctrl+C to shut down.
+INFO  06:10:18 Application started. Press Ctrl+C to shut down.
+INFO  06:10:18 Hosting environment: Development
+INFO  06:10:18 Hosting environment: Development
+INFO  06:10:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:10:18 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:10:29 GetRequest() called with json input
+INFO  06:12:29 Application started. Press Ctrl+C to shut down.
+INFO  06:12:29 Application started. Press Ctrl+C to shut down.
+INFO  06:12:29 Hosting environment: Development
+INFO  06:12:29 Hosting environment: Development
+INFO  06:12:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:12:29 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:13:58 GetRequest() called with json input
+INFO  06:16:34 Application started. Press Ctrl+C to shut down.
+INFO  06:16:34 Application started. Press Ctrl+C to shut down.
+INFO  06:16:34 Hosting environment: Development
+INFO  06:16:34 Hosting environment: Development
+INFO  06:16:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:16:34 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:16:42 GetRequest() called with json input
+INFO  06:20:04 Application started. Press Ctrl+C to shut down.
+INFO  06:20:04 Application started. Press Ctrl+C to shut down.
+INFO  06:20:04 Hosting environment: Development
+INFO  06:20:04 Hosting environment: Development
+INFO  06:20:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:20:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:20:45 Application started. Press Ctrl+C to shut down.
+INFO  06:20:45 Application started. Press Ctrl+C to shut down.
+INFO  06:20:45 Hosting environment: Development
+INFO  06:20:45 Hosting environment: Development
+INFO  06:20:45 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:20:45 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:20:55 GetRequest() called with json input
+INFO  06:21:59 Application started. Press Ctrl+C to shut down.
+INFO  06:21:59 Application started. Press Ctrl+C to shut down.
+INFO  06:21:59 Hosting environment: Development
+INFO  06:21:59 Hosting environment: Development
+INFO  06:21:59 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:21:59 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:22:07 GetRequest() called with json input
+INFO  06:25:13 Application started. Press Ctrl+C to shut down.
+INFO  06:25:13 Application started. Press Ctrl+C to shut down.
+INFO  06:25:13 Hosting environment: Development
+INFO  06:25:13 Hosting environment: Development
+INFO  06:25:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:25:13 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:25:21 GetRequest() called with json input
+INFO  06:26:08 Application started. Press Ctrl+C to shut down.
+INFO  06:26:08 Application started. Press Ctrl+C to shut down.
+INFO  06:26:08 Hosting environment: Development
+INFO  06:26:08 Hosting environment: Development
+INFO  06:26:08 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:26:08 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:26:16 GetRequest() called with json input
+INFO  06:43:48 Application started. Press Ctrl+C to shut down.
+INFO  06:43:48 Application started. Press Ctrl+C to shut down.
+INFO  06:43:48 Hosting environment: Development
+INFO  06:43:48 Hosting environment: Development
+INFO  06:43:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:43:48 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:43:57 GetRequest() called with json input
+INFO  06:47:12 Application started. Press Ctrl+C to shut down.
+INFO  06:47:12 Application started. Press Ctrl+C to shut down.
+INFO  06:47:12 Hosting environment: Development
+INFO  06:47:12 Hosting environment: Development
+INFO  06:47:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:47:12 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  06:47:19 GetRequest() called with json input
+INFO  07:37:04 Application started. Press Ctrl+C to shut down.
+INFO  07:37:04 Application started. Press Ctrl+C to shut down.
+INFO  07:37:04 Hosting environment: Development
+INFO  07:37:04 Hosting environment: Development
+INFO  07:37:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  07:37:04 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  07:37:19 Application started. Press Ctrl+C to shut down.
+INFO  07:37:19 Application started. Press Ctrl+C to shut down.
+INFO  07:37:19 Hosting environment: Development
+INFO  07:37:19 Hosting environment: Development
+INFO  07:37:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  07:37:19 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  07:37:44 Application started. Press Ctrl+C to shut down.
+INFO  07:37:44 Application started. Press Ctrl+C to shut down.
+INFO  07:37:44 Hosting environment: Development
+INFO  07:37:44 Hosting environment: Development
+INFO  07:37:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  07:37:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  07:38:00 GetRequest() called with json input
+INFO  08:27:44 Application started. Press Ctrl+C to shut down.
+INFO  08:27:44 Application started. Press Ctrl+C to shut down.
+INFO  08:27:44 Hosting environment: Development
+INFO  08:27:44 Hosting environment: Development
+INFO  08:27:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:27:44 Content root path: C:\Users\shree\source\repos\LeaveManageApp\Authorization
+INFO  08:27:52 GetRequest() called with json input
